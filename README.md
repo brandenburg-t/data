@@ -23,4 +23,4 @@ We welcome feedback and contributions. To suggest improvements or contribute to 
 This project utilizes data provided by the CDC. We express our gratitude to the CDC for making this data publicly accessible.
 
 ## License
-This project is released under the [MIT License](LICENSE.md).
+This project is released under the MIT License.
